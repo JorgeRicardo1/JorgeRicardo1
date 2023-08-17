@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **jorge.ricardo@utp.edu.co**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13ZEQy87ZlTzMB6kTjEErCARttvdGeSRl/view?usp=sharing](https://drive.google.com/file/d/13ZEQy87ZlTzMB6kTjEErCARttvdGeSRl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1x99LlVhU4qnXBmn_S14mheSj57FCUBjw/view?usp=sharing](https://drive.google.com/file/d/1x99LlVhU4qnXBmn_S14mheSj57FCUBjw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
