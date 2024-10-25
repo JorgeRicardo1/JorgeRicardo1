@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jorge Ricardo</h1>
 <h3 align="center">Passionate full-stack developer with a strong skill set in .NET and SQL. Proficient in crafting dynamic web applications using HTML, CSS, and JavaScript. Enthusiastic about software development as it empowers me to create impactful solutions that cater to people's needs.</h3>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **IA**
 
-- 💬 Ask me about **C#, .Net, MySQl, SqlServer, Javascript, html, css**
+- 💬 Ask me about **C#, .Net, MySQl, SqlServer, Javascript, html, css, Angular**
 
 - 📫 How to reach me **jorge.ricardo@utp.edu.co**
 
